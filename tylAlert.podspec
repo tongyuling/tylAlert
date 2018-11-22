@@ -8,5 +8,5 @@ s.authors = { 'tyl' => '1094221200@qq.com' }
 s.source = { :git => "https://github.com/tongyuling/tylAlert.git", :tag => "v#{s.version}"}
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
-s.source_files = "tylAlert", "*.{h,m}"
+s.source_files = "tylAlert/TYLAlertView", "*.{h,m}"
 end
